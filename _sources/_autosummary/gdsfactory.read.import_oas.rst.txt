@@ -1,0 +1,6 @@
+﻿gdsfactory.read.import\_oas
+===========================
+
+.. currentmodule:: gdsfactory.read
+
+.. autofunction:: import_oas

@@ -1,0 +1,6 @@
+﻿gdsfactory.read.from\_picwriter
+===============================
+
+.. currentmodule:: gdsfactory.read
+
+.. autofunction:: from_picwriter
